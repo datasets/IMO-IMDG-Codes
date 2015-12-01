@@ -31,7 +31,7 @@
 			  "name": "Division",
 			  "type:: "float",
 			  "description": "A defined set of divisions of the main class",
-			  "pattern": "[1-9]{1}[.]+[1236]{1}"
+			  "pattern": "[1-9]{1}[.]*[01236]{1}"
 			},
 			{
 			  "name": "Classification",
