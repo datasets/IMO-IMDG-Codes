@@ -26,7 +26,7 @@
 			  "name": "Dangerous Goods",
 			  "type": "string",
 			  "description": "Group of Hazard"
-		    },
+		    	},
 			{
 			  "name": "Division",
 			  "type": "float",
