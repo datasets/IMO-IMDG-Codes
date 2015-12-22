@@ -19,8 +19,7 @@
 		    {
 			  "name": "UN Class",
 			  "type": "number",
-			  "description": "A Single digit to describe the class of goods",
-			  "pattern": "[0-9]{1}"
+			  "description": "A Single digit to describe the class of goods"
 			},
 			{
 			  "name": "Dangerous Goods",
