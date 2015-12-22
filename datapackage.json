@@ -24,8 +24,8 @@
 			},
 			{
 			  "name": "Dangerous Goods",
-			  "description": "Group of Hazard",
-			  "type": "string"
+			  "type": "string",
+			  "description": "Group of Hazard"
 		    },
 			{
 			  "name": "Division",
