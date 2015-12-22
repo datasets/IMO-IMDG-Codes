@@ -16,10 +16,11 @@
 	    "path": "data/data.csv",
 		"schema": {
 		  "fields": [
-		    {
+		    	{
 			  "name": "UN Class",
 			  "type": "number",
-			  "description": "A Single digit to describe the class of goods"
+			  "description": "A Single digit to describe the class of goods",
+			  "pattern": "[0-9]{1}"
 			},
 			{
 			  "name": "Dangerous Goods",
