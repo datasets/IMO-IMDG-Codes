@@ -35,7 +35,7 @@
 			},
 			{
 			  "name": "Classification",
-			  "type": "string"
+			  "type": "string",
 			  "description": "Descriptive explanation of the division or classification"
 			}
 		  ]
