@@ -20,24 +20,24 @@
          "schema":{  
             "fields":[  
                {  
-                  "name":"UN Class",
+                  "name":"un class",
                   "type":"number",
                   "description":"A Single digit to describe the class of goods",
                   "pattern":"[0-9]{1}"
                },
                {  
-                  "name":"Dangerous Goods",
+                  "name":"dangerous goods",
                   "type":"string",
                   "description":"Group of Hazard"
                },
                {  
-                  "name":"Division",
+                  "name":"division",
                   "type":"float",
                   "description":"A defined set of divisions of the main class",
                   "pattern":"[1-9]{1}[.]*[01236]{1}"
                },
                {  
-                  "name":"Classification",
+                  "name":"classification",
                   "type":"string",
                   "description":"Descriptive explanation of the division or classification"
                }
