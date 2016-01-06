@@ -28,9 +28,10 @@
 			  "description": "Group of Hazard"
 		    	},
 			{
-			  "name": "Division",
-			  "type": "float",
-			  "description": "A defined set of divisions of the main class"
+ 			  "name": "Division",
+ 			  "type": "float",
+ 			  "description": "A defined set of divisions of the main class",
+ 			  "pattern": "[1-9]{1}[.]*[01236]{1}"
 			},
 			{
 			  "name": "Classification",
