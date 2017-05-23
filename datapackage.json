@@ -32,7 +32,7 @@
                },
                {  
                   "name":"division",
-                  "type":"float",
+                  "type":"number",
                   "description":"A defined set of divisions of the main class",
                   "pattern":"[1-9]{1}[.]*[01236]{1}"
                },
