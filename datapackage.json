@@ -7,16 +7,19 @@
    "sources":[  
       {  
          "name":"IMO",
-         "web":"http://www.imo.org/blast/mainframe.asp?topic_id=158"
+         "path":"http://www.imo.org/blast/mainframe.asp?topic_id=158",
+         "title": "IMO"
       },
       {  
          "name":"Gov.uk",
-         "web":"https://www.gov.uk/guidance/moving-dangerous-goods#the-classification-of-dangerous-goods"
+         "path":"https://www.gov.uk/guidance/moving-dangerous-goods#the-classification-of-dangerous-goods",
+         "title": "Gov.uk"
       }
    ],
    "resources":[  
       {  
          "path":"data/data.csv",
+         "name": "data",
          "schema":{  
             "fields":[  
                {  
