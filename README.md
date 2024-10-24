@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/IMO-IMDG-Codes"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 Official IMDG Codes for use in transport of dangerous goods as described by the IMO
 
 ## Data
